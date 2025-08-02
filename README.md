@@ -1,4 +1,4 @@
-Here's the updated **README.md** content for your Windows 11 Web project with your name and GitHub details properly replaced:
+Here's the updated **README.md** content for your Windows 11 Web project and all details.
 
 ---
 
