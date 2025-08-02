@@ -24,9 +24,6 @@ This is not just an image – it's a real, interactive simulation of the Windows
 <img width="300px" height="300px" src="https://847395.smushcdn.com/2245437/wp-content/uploads/2021/07/Menu-de-Inicio-Windows-11.gif?lossy=1&strip=1&webp=1">
 <img width="500px" height="300px" src="https://weblium.com/blog/wp-content/uploads/2020/06/windows-800x437.png">
 
-🎥
-[https://user-images.githubusercontent.com/72294760/126310440-06eab9d5-14e9-4ffc-ad38-66c1c4466f28.mp4](https://user-images.githubusercontent.com/72294760/126310440-06eab9d5-14e9-4ffc-ad38-66c1c4466f28.mp4)
-
 ---
 
 ## ⚠️ Important Note:
